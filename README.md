@@ -19,9 +19,6 @@ Having been given financial data with the profit or loss for each month I have b
 
 * The greatest decrease in losses (date and amount) over the entire period.
 
+Deployed application: [https://ginacamelia.github.io/Console-Finances/](https://ginacamelia.github.io/Console-Finances/)
 
-
-## [](https://github.com/GinaCamelia/Console-Finances#usage)Usage
-
-Open the html file and inspect the console. The console should show the following information:[![](https://github.com/GinaCamelia/Console-Finances/raw/main/resources/ss-of-console-output.png)](https://github.com/GinaCamelia/Console-Finances/blob/main/resources/ss-of-console-output.png)Deployed application: [https://ginacamelia.github.io/Console-Finances/](https://ginacamelia.github.io/Console-Finances/)
 

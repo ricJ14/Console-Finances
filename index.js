@@ -121,6 +121,7 @@ for (let index = 0; index < finances.length; index++) {
 for (let index = 0; index < netArray.length; index++) {
     netChangeSum += netArray[index];
 }
+
 average = Math.round((netChangeSum / 86) * 100) / 100;
 
 // concatenation 
