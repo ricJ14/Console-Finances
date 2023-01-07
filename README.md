@@ -21,4 +21,4 @@ Having been given financial data with the profit or loss for each month I have b
 
 Deployed application: [https://ricj14.github.io/Console-Finances/](https://ricj14.github.io/Console-Finances/)
 
-[](../Console-Finances/images/Screenshot%202023-01-07.png)
+![Screenshot](../Console-Finances/images/Screenshot%202023-01-07.png)
