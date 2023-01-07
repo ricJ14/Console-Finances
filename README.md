@@ -1,2 +1,27 @@
 # Console-Finances
  module 4 challenge
+
+ Create code for  analyzing the financial records of a company.
+
+ Description
+
+Having been given financial data with the profit or loss for each month I have been given the task of writing JavaScript code that analyzes the records to calculate each of the following:
+
+* The total number of months included in the dataset.
+
+* The net total amount of Profit/Losses over the entire period.
+
+* The average of the **changes** in Profit/Losses over the entire period.
+  * You will need to track what the total change in profits are from month to month and then find the average.
+  * (`Total/Number of months`)
+
+* The greatest increase in profits (date and amount) over the entire period.
+
+* The greatest decrease in losses (date and amount) over the entire period.
+
+
+
+## [](https://github.com/GinaCamelia/Console-Finances#usage)Usage
+
+Open the html file and inspect the console. The console should show the following information:[![](https://github.com/GinaCamelia/Console-Finances/raw/main/resources/ss-of-console-output.png)](https://github.com/GinaCamelia/Console-Finances/blob/main/resources/ss-of-console-output.png)Deployed application: [https://ginacamelia.github.io/Console-Finances/](https://ginacamelia.github.io/Console-Finances/)
+
